@@ -5,7 +5,7 @@
  * @package ArticleProtect 
  * @author arest
  * @version 1.3.0
- * @link http://www.blog.kgsoft.cn
+ * @link https://qintianxiang.com
  */
 class ArticleProtect_Plugin implements Typecho_Plugin_Interface
 {
